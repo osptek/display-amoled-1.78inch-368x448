@@ -1,0 +1,10 @@
+id: AM178Q368448LK
+category: displays
+size: "1.78"
+panel: amoled
+resolution: 368x448
+interface: [qspi]
+driver: CO5300
+touch: null
+outline: 34.14 x 42.74 mm
+active_area: 28.70 x 34.94 mm
