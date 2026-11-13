@@ -45,10 +45,10 @@
 | Datasheet | [`CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf`](./datasheets/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf) |
 | Datasheet | [`DS_CHSC_6417_EU_24_v1_3_1_f66256c159.pdf`](./datasheets/DS_CHSC_6417_EU_24_v1_3_1_f66256c159.pdf) |
 | Datasheet | [`AM178Q368448LK.pdf`](./datasheets/AM178Q368448LK.pdf) |
-| CAD file | [`AM178Q368448LK1.dwg`](./cad/AM178Q368448LK1.dwg) |
-| CAD file | [`OK-14F024-04.pdf`](./cad/OK-14F024-04.pdf) |
+| CAD file | [`AM178Q368448LK.dwg`](./cad/AM178Q368448LK.dwg) |
 | Adapter materials | [`转接板1 原理图1.96_1.78_AMOLED转接板V1.0.pdf`](./adapter/%E8%BD%AC%E6%8E%A5%E6%9D%BF1%20%E5%8E%9F%E7%90%86%E5%9B%BE1.96_1.78_AMOLED%E8%BD%AC%E6%8E%A5%E6%9D%BFV1.0.pdf) |
 | Adapter materials | [`转接板2 原理图-1.78demo转接板.pdf`](./adapter/%E8%BD%AC%E6%8E%A5%E6%9D%BF2%20%E5%8E%9F%E7%90%86%E5%9B%BE-1.78demo%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
+| Other | [`OK-14F024-04.pdf`](./misc/OK-14F024-04.pdf) |
 
 ## Repository layout
 
@@ -62,7 +62,8 @@ display-amoled-1.78inch-368x448/ # repo root (nav: ../../README_EN.md; sample pr
         ├── images/
         ├── datasheets/       # product datasheet + driver/touch IC datasheets
         ├── cad/              # outline/cover CAD
-        └── adapter/          # adapter board materials + photos
+        ├── adapter/          # adapter board materials + photos
+        └── misc/             # other materials
 ```
 
 ## Buy
