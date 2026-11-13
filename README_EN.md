@@ -38,6 +38,7 @@ Repo id: `display-amoled-1.78inch-368x448`
 | Version | Image | Driver IC | Touch IC | Interface | Full docs |
 | ------- | ----- | --------- | -------- | --------- | --------- |
 | AM178Q368448LK | <img alt="AM178Q368448LK" src="./versions/AM178Q368448LK/images/product.png" width="120" /> | CO5300 | — | QSPI | [Full docs](./versions/AM178Q368448LK/) |
+| AM178Q368448LK1 | — | CO5300 | — | QSPI | [Full docs](./versions/AM178Q368448LK1/) |
 
 ---
 

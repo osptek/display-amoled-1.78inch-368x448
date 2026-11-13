@@ -38,6 +38,7 @@
 | 版本 | 宣传图 | 驱动 IC | 触摸驱动 | 接口 | 完整资料 |
 | ---- | ------ | ------- | -------- | ---- | -------- |
 | AM178Q368448LK | <img alt="AM178Q368448LK" src="./versions/AM178Q368448LK/images/product.png" width="120" /> | CO5300 | — | QSPI | [完整资料](./versions/AM178Q368448LK/) |
+| AM178Q368448LK1 | — | CO5300 | — | QSPI | [完整资料](./versions/AM178Q368448LK1/) |
 
 ---
 
