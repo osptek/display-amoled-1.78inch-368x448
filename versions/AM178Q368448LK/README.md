@@ -46,6 +46,7 @@
 | 规格文档 | [`DS_CHSC_6417_EU_24_v1_3_1_f66256c159.pdf`](./datasheets/DS_CHSC_6417_EU_24_v1_3_1_f66256c159.pdf) |
 | 规格文档 | [`AM178Q368448LK.pdf`](./datasheets/AM178Q368448LK.pdf) |
 | CAD 图纸 | [`AM178Q368448LK.dwg`](./cad/AM178Q368448LK.dwg) |
+| CAD 图纸 | [`AM178Q368448LK.step`](./cad/AM178Q368448LK.step) |
 | 转接板资料 | [`转接板1 原理图1.96_1.78_AMOLED转接板V1.0.pdf`](./adapter/%E8%BD%AC%E6%8E%A5%E6%9D%BF1%20%E5%8E%9F%E7%90%86%E5%9B%BE1.96_1.78_AMOLED%E8%BD%AC%E6%8E%A5%E6%9D%BFV1.0.pdf) |
 | 转接板资料 | [`转接板2 原理图-1.78demo转接板.pdf`](./adapter/%E8%BD%AC%E6%8E%A5%E6%9D%BF2%20%E5%8E%9F%E7%90%86%E5%9B%BE-1.78demo%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
 | 其他资料 | [`OK-14F024-04.pdf`](./misc/OK-14F024-04.pdf) |
